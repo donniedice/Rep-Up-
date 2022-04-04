@@ -5,8 +5,8 @@
 ## Notes: Grats!
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
-## X-Website:
-## X-Curse-Project-ID:
+## X-Website: https://github.com/donniedice/Rep-Up-
+## X-Curse-Project-ID: 605827
 ## X-WoWI-ID:
 
 main.lua

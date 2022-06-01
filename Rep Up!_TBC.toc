@@ -1,5 +1,5 @@
-## Interface: 20503
-## Version: 1.0.0
+## Interface: 20504
+## Version: 1.0.1
 ## Title:|cffffffffRep Up!|r
 ## Author: DonnieDice
 ## Notes: Grats!
@@ -7,6 +7,8 @@
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/Rep-Up-
 ## X-Curse-Project-ID: 605827
-## X-WoWI-ID:
+## X-Tukui-ProjectID: 240
+## X-Wago-ID: 5bGodqN0
+## X-WoWI-ID: 26319
 
 main.lua

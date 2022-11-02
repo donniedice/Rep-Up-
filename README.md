@@ -1,4 +1,4 @@
-v1.0.1
+v1.0.2
 ------------------------------
 
 **Rep Up!**
@@ -9,11 +9,11 @@ This is an addon that will play the level up sound when you rank up reputation i
 
 ------------------------------
 
-- This addon works in SHADOWLANDS!
+- This addon works in DRAGONFLIGHT!
 
 - This addon works in CLASSIC WOW!
 
-- This addon works in CLASSIC TBC!
+- This addon works in CLASSIC WotLK!
 
 ------------------------------
 <div align="center">

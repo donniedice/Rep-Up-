@@ -1,6 +1,6 @@
-## Interface: 100000
-## Version: 1.0.2
-## Title:|cffffffffRep Up!|r
+## Interface: 100002
+## Version: 1.0.3
+## Title:|cff3bbc00Rep Up!|r
 ## Author: DonnieDice
 ## Notes: Grats!
 

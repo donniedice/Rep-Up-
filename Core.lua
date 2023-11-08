@@ -1,4 +1,4 @@
--- v1.0.4
+-- v1.0.5
 
 -- Mute default Reputation level up sound
 -- This code block mutes the default Reputation level up sound by registering an event listener for ADDON_LOADED event and muting the sound file with ID 568016.

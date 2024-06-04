@@ -1,0 +1,17 @@
+v2.0.0
+
+- Added   - ToC for _classic_ - Cataclysm Classic (4.4.0.54501) [ToC.40400]
+- Updated - ToC for _classic_era_ - Season of Discovery (1.15.2.54332) [ToC.11502]
+- Updated - ToC for _retail_ - Dark Heart (10.2.7.54604) [ToC.100207]
+- Moved   - [core.lua] - [/data]
+- Changed - [CHANGEME.md] - [CHANGES.md]
+- Added   - [changelog.txt]
+- Added   - [release.yml]
+- Fixed   - lower-case [core.lua] - [Rep Up!.toc]
+- Added   - [TODO.md]
+- Added   - [options.lua] - [/data]
+- Added   - Ace3 Libs - [/libs]
+- Added   - sounds.ogg - [/sounds]
+- Added   - images - [/images]
+- Added   - Functionality for Renown - [core.lua]
+- Added   - Options Panal - [options.lua]

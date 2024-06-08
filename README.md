@@ -1,10 +1,6 @@
 [![](https://img.shields.io/static/v1?label=Donate&message=CashApp&color=brightgreen)](https://bit.ly/3fyxxSU)
 
-v2.0.0
-------------------------------
-
 **Rep Up!**
-
 ------------------------------
 ![](https://github.com/donniedice/Rep-Up-/blob/main/images/preview.png)
 ------------------------------

@@ -1,3 +1,14 @@
+v2.1.1-------------------------------------------------------------------
+- Added   - [data/sounds.lua] - [Rep Up!.toc], [Rep Up!_Vanilla.toc], [Rep Up!_Cata.toc]
+- Removed - Version # - [CHANGES.md]
+- Removed - Version # - [.pkgmeta]
+- Removed - Version # - [README.md]
+- Removed - Version # - [core.lua]
+- Added   - [release.yml] - [.github/workflows]
+- Added   - Sectioning for readability - [data/allFiles]
+- Removed - Double calls to 'self' - event functions - [core.lua], [core_v.lua]
+- Removed - Login Chat Spam [core.lua], [core_v.lua]
+- Moved   - Sound table decalaration - [sounds.lua]
 v2.0.0-------------------------------------------------------------------
 - Added   - ToC for _classic_ - Cataclysm Classic (4.4.0.54501) [ToC.40400]
 - Updated - ToC for _classic_era_ - Season of Discovery (1.15.2.54332) [ToC.11502]

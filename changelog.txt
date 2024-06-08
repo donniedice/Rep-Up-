@@ -1,3 +1,5 @@
+v2.1.2-------------------------------------------------------------------
+- Fixed - Issues with workflow - [release.yml]
 v2.1.1-------------------------------------------------------------------
 - Added   - [data/sounds.lua] - [Rep Up!.toc], [Rep Up!_Vanilla.toc], [Rep Up!_Cata.toc]
 - Removed - Version # - [CHANGES.md]

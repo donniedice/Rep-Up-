@@ -27,8 +27,8 @@ jobs:
       - name: Extract Version from TOC
         id: extract_version
         run: |
-          version=$(grep -oP '^## Version: \K(.*)' ./Rep Up!.toc)
-          echo "::set-output name=version::$version"
+            version=$(grep -oP '^## Version: \K(.*)' ./*.toc)
+            echo "::set-output name=version::$version"
 
       - name: Package and Release
         uses: BigWigsMods/packager@master

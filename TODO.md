@@ -1,8 +1,8 @@
 # To-Do List
 
 -------------------------------------------------
-- [ ] Fix Colors and Verbiage
-- [ ] Make other Default sounds available
+- [X] Fix Colors and Verbiage
+- [X] Make other Default sounds available
 -------------------------------------------------
 - [ ] Add Sound options for every faction
 -------------------------------------------------

@@ -1,1 +1,19 @@
-- Fixed - Issues with workflow - [release.yml]
+- Added   - [utils.lua] - [/data] - Global functions and variables
+- Changed - Hardcoded version number - GetAddOnMetadata - [utils.lua]
+- Added - [elden_ring-1_high.ogg, elden_ring-1_med.ogg, elden_ring-1_low.ogg] - [/sounds]
+- Added - [elden_ring-2_high.ogg, elden_ring-2_med.ogg, elden_ring-2_low.ogg] - [/sounds]
+- Added - [elden_ring-3_high.ogg, elden_ring-3_med.ogg, elden_ring-3_low.ogg] - [/sounds]
+- Added - [elden_ring-4_high.ogg, elden_ring-4_med.ogg, elden_ring-4_low.ogg] - [/sounds]
+- Added - [elden_ring-5_high.ogg, elden_ring-5_med.ogg, elden_ring-5_low.ogg] - [/sounds]
+- Added - [elden_ring-6_high.ogg, elden_ring-6_med.ogg, elden_ring-6_low.ogg] - [/sounds]
+- Fixed - Structure and organization
+- Added - Notations
+- Removed - Draft release section - [release.yml]
+- Updated - README.md
+- Fixed - Colors in notes - [Rep Up!.toc, Rep Up!_c.toc, Rep Up!_v.toc]
+- Fixed - CHANGELOG to CHANGES - [.pkgmeta]
+- Fixed - Default sound selections
+- Added - DebugMode - "/blu debug" to toggle - [utils.lua, core.lua, core_c.lua, core_v.lua]
+- Fixed - Issues with colors - OptionsPanel - [options.lua, options_v.lua]
+- Fixed - Issues with colors - ##Title  ##Notes - [Rep Up!.toc, Rep Up!_Cata.toc, Rep_Up!_Vanilla.toc]
+- Fixed - Issue with color - [icon.tga]

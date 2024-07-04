@@ -1,65 +1,18 @@
-local VersionNumber = "2.1.2"
-local soundOptions = {
-    "[Default]",
-    "[Random]",
-    "Altered Beast",
-    "Assassin's Creed",
-    "Castlevania",
-    "Diablo 2",
-    "Dragon Quest",
-    "DotA 2",
-    "EverQuest",
-    "Fallout - New Vegas",
-    "Fallout 3",
-    "Final Fantasy",
-    "Fire Emblem",
-    "Fire Emblem - Awakening",
-    "Fly For Fun",
-    "Fortnite",
-    "GTA - San Andreas",
-    "Kingdom Hearts 3",
-    "Kirby (1)",
-    "Kirby (2)",
-    "League of Legends",
-    "Legend of Zelda",
-    "Maplestory",
-    "Metal Gear Solid",
-    "Minecraft",
-    "Modern Warfare 2",
-    "Morrowind",
-    "Old School Runescape",
-    "Palworld",
-    "Path of Exile",
-    "Pokemon",
-    "Ragnarok Online",
-    "Shining Force II",
-    "Shining Force III (1)",
-    "Shining Force III (2)",
-    "Shining Force III (3)",
-    "Shining Force III (4)",
-    "Shining Force III (5)",
-    "Shining Force III (6)",
-    "Shining Force III (7)",
-    "Shining Force III (8)",
-    "Shining Force III (9)",
-    "Shining Force III (10)",
-    "Shining Force III (11)",
-    "Skyrim",
-    "Sonic The Hedgehog",
-    "Spryo The Dragon",
-    "Super Mario Bros 3",
-    "Warcraft 3",
-    "Witcher 3 (1)",
-    "Witcher 3 (2)",
-}
+--=====================================================================================
+-- Default Profile Settings
+--=====================================================================================
 RU.defaults = {
     profile = {
-        RenownSoundSelect = 45,
+        RenownSoundSelect = 21,
         RenownVolume = 2.0,
-        RepSoundSelect = 27,
+        RepSoundSelect = 15,
         RepVolume = 2.0,
     },
 }
+
+--=====================================================================================
+-- Options Definition
+--=====================================================================================
 RU.options = {
     type = "group",
     name = "",
@@ -68,7 +21,7 @@ RU.options = {
         group1 = {
             type = "header",
             order = 1,
-            name = "|cff3bbc00R|r|cffffffffep|r |cff05dffaU|r|cffffffffp!|r",
+            name = "|cff3bbc00R|r|cffffffffep|r |cff3bbc00U|r|cffffffffp!|r",
         },
         group2 = {
             type = "group",
@@ -92,7 +45,7 @@ RU.options = {
                     imageHeight = 20,
                     name = "",
                     desc = "",
-                    func = TestRenownSound,
+                    func = "TestRenownSound",
                 },
                 RenownVolume = {
                     type = "range",
@@ -127,7 +80,7 @@ RU.options = {
                     imageHeight = 20,
                     name = "",
                     desc = "",
-                    func = TestRepSound,
+                    func = "TestRepSound",
                 },
                 RepVolume = {
                     type = "range",
@@ -140,16 +93,21 @@ RU.options = {
                 },
             },
         },
-		group4 = {
-			type = "header",
-			order = 4,
-			name = "|cff8080ff" .. VersionNumber .. "|r",
-		},
-	},
+        group4 = {
+            type = "header",
+            order = 4,
+            name = "|cff8080ff" .. VersionNumber .. "|r",
+        },
+    },
 }
+
+--=====================================================================================
+-- Get and Set Functions
+--=====================================================================================
 function RU:GetValue(info)
-	return self.db.profile[info[#info]]
+    return self.db.profile[info[#info]]
 end
+
 function RU:SetValue(info, value)
-	self.db.profile[info[#info]] = value
+    self.db.profile[info[#info]] = value
 end

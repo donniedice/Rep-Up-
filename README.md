@@ -1,40 +1,21 @@
-[![](https://img.shields.io/static/v1?label=Donate&message=CashApp&color=brightgreen)](https://bit.ly/3fyxxSU)
+# Rep Up!
 
-**Rep Up!**
-------------------------------
-![](https://github.com/donniedice/Rep-Up-/blob/main/images/preview.png)
-------------------------------
-**Thank you for Downloading Rep Up! Enter '/rep' to Select Reputation/Renown Rank-Up Sounds!**
-------------------------------
+![Rep Up!](https://github.com/donniedice/Rep-Up-/blob/main/images/preview.png)
 
-Play sounds from other games when you gain Reputation Ranks!
+## Overview
+**Rep Up!** enhances your World of Warcraft experience by playing iconic sounds from various other games when you gain reputation or renown ranks.
 
-[R] Play sounds from other games when you gain DragonFlight Renown Reputation Ranks!
+---
 
+## Features
+- **Reputation Ranks:** Enjoy sounds from other games when you gain reputation ranks.
+- **DragonFlight Renown:** *(Retail Only)* Hear sounds from other games when you gain DragonFlight renown reputation ranks.
 
-[R] = Retail Only
+*Note: All sounds come with independent volume adjustment capability.*
 
-------------------------------
+---
 
-**NOTE:**
-
-***When I add new sounds to this addon, they are added in alphabetical order.***
-
-***This changes the Selection Order in the code for options.lua.***
-
-***You may have to re-select a previously selected sound after Addon Updates.***
-
-------------------------------
-
-- This addon works in DRAGONFLIGHT!
-
-- This addon works in CLASSIC WOW!
-
-- This addon works in CLASSIC CATA!
-
-------------------------------
-
-**Current list of available game sounds**
+## Available Game Sounds
 - Default
 - Random
 - Altered Beast
@@ -75,18 +56,48 @@ Play sounds from other games when you gain Reputation Ranks!
 - Warcraft 3
 - Witcher 3
 
-------------------------------
+*Note: When new sounds are added, they are listed in alphabetical order. This may change the selection order in the code for `options.lua`. You may need to re-select previously selected sounds after updates.*
 
-***To-Do List***
+---
 
-Add more sounds!
+## Compatibility
+- **Dragonflight**
+- **Classic WoW** (Season of Discovery, Classic Hardcore)
+- **Classic Cataclysm**
 
-------------------------------
+---
 
-<div align="center">
+## Installation
+1. Download the addon from [Curse](https://www.curseforge.com/wow/addons/rep-up), [GitHub](https://github.com/donniedice/Rep-Up-), [Wago](https://addons.wago.io/addons/rep-up), or [WoWInterface](https://www.wowinterface.com/downloads/info26319-RepUp.html).
+2. Extract the downloaded file to your World of Warcraft `Interface/AddOns` directory:
+   - For **Dragonflight**: `World of Warcraft/_retail_/Interface/AddOns`
+   - For **Classic Cataclysm**: `World of Warcraft/_classic_/Interface/AddOns`
+   - For **Classic WoW** (Season of Discovery, Classic Hardcore): `World of Warcraft/_classic_era_/Interface/AddOns`
+3. Restart World of Warcraft and enable the addon in the Addons menu.
 
-**Rep Up! Download Links:**
+---
 
-[Curse](https://www.curseforge.com/wow/addons/rep-up "This link takes you to the Curseforge.com website, you may download it here and help support the developers.") * [GitHub](https://github.com/donniedice/Rep-Up- "This link takes you to the GitHub.com website, you may download it here.") * [Wago](https://addons.wago.io/addons/rep-up "This link takes you to the Wago.io website, you may download it here and help support the developers.") * [WoWInterface](https://www.wowinterface.com/downloads/info26319-RepUp.html "This link takes you to the WoWInterface.com website, you may download it here.")
+## Support the Project
 
-</div>
+### ☕️ Buy Me a Coffee
+If you found this project helpful or enjoyable, you can support my work by buying me a coffee. Your support keeps this project alive and motivates me to create more!
+
+[![Buy Me a Coffee](https://img.shields.io/badge/☕️-Buy%20Me%20a%20Coffee-orange?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/donniedice)
+
+### Your Support Helps:
+- 🛠️ Maintain and improve the project.
+- 🚀 Add new features.
+- 🐛 Fix bugs.
+- 📚 Write detailed documentation.
+
+Thank you for your support! 🙏
+
+### 💸 Other Ways to Support:
+[![Donate via CashApp](https://img.shields.io/static/v1?label=Donate&message=CashApp&color=brightgreen)](https://bit.ly/3fyxxSU)
+
+### 💬 Stay in Touch:
+- Follow me on [GitHub](https://github.com/donniedice) 🐙
+
+### ⭐️ Show Your Support:
+- Star this project on [GitHub](https://github.com/donniedice/Rep-Up-) ⭐️
+- Share it with your friends and colleagues 📢

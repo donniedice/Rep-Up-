@@ -1,3 +1,6 @@
+v3.0.1-------------------------------------------------------------------
+- Updated - ToC for _classic_era_ - Season of Discovery Phase 4 (1.15.3.55646) [ToC.11503]
+- Updated - ToC for _retail_ - TWW Pre-Patch (11.0.0.55793) [ToC.110000]
 v3.0.0-------------------------------------------------------------------
 - Added   - [utils.lua] - [/data] - Global functions and variables
 - Changed - Hardcoded version number - GetAddOnMetadata - [utils.lua]
